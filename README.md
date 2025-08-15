@@ -17,11 +17,11 @@ Excel → Relatórios e análises complementares.
 📂 Estrutura do Projeto
 projeto-vendas/
 │
-├── python/      # Scripts de análise e tratamento de dados
-├── sql/         # Consultas e scripts SQL
-├── looker/      # Imagens e configurações de dashboards
-├── excel/       # Planilhas e relatórios
-├── aws/         # Imagens e configurações de dashboards
+* python/      # Scripts de análise e tratamento de dados
+* sql/         # Consultas e scripts SQL
+* looker/      # Imagens e configurações de dashboards
+* excel/       # Planilhas e relatórios
+* aws/         # Imagens e configurações de dashboards
 └── README.md    # Descrição geral do projeto
 
 🎯 Objetivos da Análise
