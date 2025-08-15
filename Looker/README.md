@@ -1,6 +1,6 @@
 
 # 📊 Painel de Acompanhamento de Vendas - Google Looker Studio
-🔗 Acesse o painel aqui: Clique para abrir
+🔗 **Acesse o dashboard aqui:** [Clique para abrir](https://lookerstudio.google.com/s/gdtjw8d76KY)
 
 
 ## 📝 Descrição do Projeto
